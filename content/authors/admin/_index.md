@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: ""
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Seungjoo Lee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Seungjoo
+last_name: Lee
 
 # Status emoji
 status:
