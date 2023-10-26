@@ -124,17 +124,20 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  # - block: 'github.juiceleee.publications'
-  #   content:
-  #     title: Publications
-  #     text: 
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     columns: '1'
-  #     view: citation
+  - block: 'github.juiceleee.publication'
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: posts
     content:
