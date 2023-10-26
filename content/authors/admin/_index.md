@@ -122,7 +122,7 @@ social:
 paper:
   - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
     venue: "EMNLP '23"
-    author: "Jaemin Shin, Hyungjun Yoon, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee"
+    author: "Jaemin Shin, Hyungjun Yoon, <b>Seungjoo Lee</b>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee"
     pdf: https://paperswithcode.com/paper/fedtherapist-mental-health-monitoring-with
   - name: "MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"
     venue: "CHI '22"
