@@ -3,7 +3,7 @@
 title: ""
 
 # Name pronunciation (optional)
-name_pronunciation: Seungjoo Lee
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Seungjoo
