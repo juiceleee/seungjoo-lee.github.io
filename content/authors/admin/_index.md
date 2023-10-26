@@ -123,6 +123,7 @@ highlight_name: true
 ---
 
 I am currently pursuing Master's degree at KAIST under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received my B.S. degree in Computer Science from KAIST in 2022.
+{style="text-align: justify;"}
 
  My research centers on <b>Federated Learning</b> (FL), with a particular emphasis on enhancing its practicality. I believe that the widespread adoption of FL systems can unlock innovative possibilities in our daily lives. Currently, my research is concentrated on addressing the label deficiency challenges within FL systems.
 {style="text-align: justify;"}
