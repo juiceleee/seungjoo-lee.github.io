@@ -35,8 +35,7 @@ organizations:
 bio: Hello
 
 # Interests to show in About widget
-interests:
-  - Federated Learning
+interests: Federated Learning, Weak Supervision
 
 # Education to show in About widget
 # education:
