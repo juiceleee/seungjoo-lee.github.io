@@ -130,7 +130,7 @@ paper:
     pdf: https://dl.acm.org/doi/abs/10.1145/3491102.3502041
     website: https://nmsl.kaist.ac.kr/projects/mydj/
     video: https://www.youtube.com/watch?v=77XNl39QoEE
-    award: Best Paper Honorable Mention Awards
+    award: Best Paper Honorable Mention Award
 
 
 # Highlight the author in author lists? (true/false)
