@@ -130,7 +130,12 @@ paper:
     pdf: https://dl.acm.org/doi/abs/10.1145/3491102.3502041
     website: https://nmsl.kaist.ac.kr/projects/mydj/
     video: https://www.youtube.com/watch?v=77XNl39QoEE
-    award: Best Paper Honorable Mention Award
+    award: Best Paper Honorable Mention Award (Top 5%)
+  - name: "Accurate Eating Detection on a Daily Wearable Necklace"
+    venue: "MobiSys '19 Demo"
+    author: Jaemin Shin, Hyungjun Yoon, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
+    pdf: https://dl.acm.org/doi/10.1145/3307334.3328565
+    
 
 
 # Highlight the author in author lists? (true/false)
