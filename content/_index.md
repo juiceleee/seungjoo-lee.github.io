@@ -124,17 +124,17 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: 'github.juiceleee.publications'
-    content:
-      title: Publications
-      text: 
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '1'
-      view: citation
+  # - block: 'github.juiceleee.publications'
+  #   content:
+  #     title: Publications
+  #     text: 
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     columns: '1'
+  #     view: citation
   - block: collection
     id: posts
     content:
