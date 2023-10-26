@@ -21,7 +21,7 @@ role: MS Student @
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KAIST
+  - name:  KAIST
     url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
