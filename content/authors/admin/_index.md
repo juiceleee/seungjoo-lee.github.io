@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS Student
+role: MS Student @ 
 
 # Organizations/Affiliations to show in About widget
 organizations:
