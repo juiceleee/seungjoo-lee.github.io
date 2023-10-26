@@ -29,9 +29,7 @@ bio: Hello
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Federated Learning
 
 # Education to show in About widget
 education:
