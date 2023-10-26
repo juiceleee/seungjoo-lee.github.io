@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS
+role: MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: KAIST
+    url: https://www.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
