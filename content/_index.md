@@ -127,7 +127,7 @@ sections:
   - block: 'github.juiceleee.publication'
     content:
       title: Recent Publications
-      text:
+      text: ''
       filters:
         folders:
           - publication
