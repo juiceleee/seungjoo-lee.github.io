@@ -91,6 +91,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
+    size: 2xs
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
