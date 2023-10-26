@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ""
+title: "Seungjoo Lee"
 
 # Name pronunciation (optional)
 name_pronunciation: Seungjoo Lee
