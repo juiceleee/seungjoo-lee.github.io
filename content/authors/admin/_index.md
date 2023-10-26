@@ -17,12 +17,19 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MS Student @ 
+role_bs: Bachelor's degree @
+
+
+role: Master's student @
 
 # Organizations/Affiliations to show in About widget
+organizations_bs:
+  - name:  KAIST CS
+    url: https://cs.kaist.ac.kr/
+
 organizations:
-  - name:  KAIST
-    url: https://www.kaist.ac.kr/en/
+  - name:  KAIST EE
+    url: https://ee.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hello
