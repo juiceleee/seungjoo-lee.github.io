@@ -35,7 +35,7 @@ organizations:
 bio: Hello
 
 # Interests to show in About widget
-interests: "Federated Learning, Weak Supervision, Natural Language Processing"
+interests: "Federated Learning, Weak Supervision"
 
 # Education to show in About widget
 # education:
@@ -122,5 +122,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a M.S. student at KAIST, advised by Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received my B.S. degree in Computer Science from KAIST in 2022.
+
+I work on <b>Federated Learning</b>, 
 {style="text-align: justify;"}
