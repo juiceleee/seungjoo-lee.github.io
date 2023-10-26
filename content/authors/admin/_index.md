@@ -118,6 +118,21 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+
+paper:
+  - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
+    venue: "EMNLP '23"
+    author: "Jaemin Shin, Hyungjun Yoon, Seungjoo Lee, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee"
+    pdf: https://paperswithcode.com/paper/fedtherapist-mental-health-monitoring-with
+  - name: "MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"
+    venue: "CHI '22"
+    author: Jaemin Shin, Seungjoo Lee, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee
+    pdf: https://dl.acm.org/doi/abs/10.1145/3491102.3502041
+    website: https://nmsl.kaist.ac.kr/projects/mydj/
+    video: https://www.youtube.com/watch?v=77XNl39QoEE
+    award: Best Paper Honorable Mention Award
+
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---

@@ -125,16 +125,11 @@ sections:
   #   design:
   #     columns: '2'
   - block: 'github.juiceleee.publication'
+    id: publication
     content:
-      title: Publicationss
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
+      title: Publications
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   - block: collection
     id: posts
     content:
