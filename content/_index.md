@@ -126,7 +126,7 @@ sections:
   #     columns: '2'
   - block: 'github.juiceleee.publication'
     content:
-      title: Publications
+      title: Publicationss
       text: ''
       filters:
         folders:
