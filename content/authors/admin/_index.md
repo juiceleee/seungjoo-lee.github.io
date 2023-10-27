@@ -122,18 +122,18 @@ social:
 paper:
   - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
     venue: "EMNLP '23"
-    author: Jaemin Shin, Hyungjun Yoon, <b>Seungjoo Lee</b>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
+    author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
     pdf: https://paperswithcode.com/paper/fedtherapist-mental-health-monitoring-with
   - name: "MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"
     venue: "CHI '22"
-    author: Jaemin Shin, <b>Seungjoo Lee</b>, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee
+    author: Jaemin Shin, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee
     pdf: https://dl.acm.org/doi/abs/10.1145/3491102.3502041
     website: https://nmsl.kaist.ac.kr/projects/mydj/
     video: https://www.youtube.com/watch?v=77XNl39QoEE
     award: Best Paper Honorable Mention Award (Top 5%)
   - name: "Accurate Eating Detection on a Daily Wearable Necklace"
     venue: "MobiSys '19 Demo"
-    author: Jaemin Shin, Hyungjun Yoon, <b>Seungjoo Lee</b>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
+    author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
     pdf: https://dl.acm.org/doi/10.1145/3307334.3328565
     
 honor:
