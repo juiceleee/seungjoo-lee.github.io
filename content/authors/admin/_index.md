@@ -35,7 +35,7 @@ organizations:
 bio: Hello
 
 # Interests to show in About widget
-interests: "Federated Learning, Weak Supervision"
+interests: "Machine Learning, Natural Language Processing"
 
 # Education to show in About widget
 # education:
