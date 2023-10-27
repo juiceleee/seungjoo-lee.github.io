@@ -61,9 +61,9 @@ locale:
 
 # Site features
 
-features:
-  syntax_highlighter:
-    theme_light: github-light
+# features:
+#   syntax_highlighter:
+#     theme_light: github-light
     # theme_dark: github-light
   math:
     enable: false
