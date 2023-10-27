@@ -134,6 +134,7 @@ sections:
     id: honor
     content:
       title: Honors
+      username: admin
   - block: collection
     id: posts
     content:
