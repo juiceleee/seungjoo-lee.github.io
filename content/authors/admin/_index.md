@@ -138,7 +138,7 @@ paper:
     
 honor:
   - name: "KAIST 2023 Whole Person Development Award (KAIST Board of Trustee Chairpeson's Prize)"
-    exp: "Awarded to top 2 (0.28%) out of 715 students, who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony"
+    exp: "Second place out of 715 students, who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony"
     org: "KAIST"
     date: "Feb 2023"
   - name: "Engineering Innovator Award"
@@ -170,5 +170,5 @@ highlight_name: true
 I am currently pursuing Master's degree at KAIST in <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a> under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received my B.S. degree in Computer Science from KAIST in 2022.
 {style="text-align: justify;"}
 
- My research centers on <b>Federated Learning</b> (FL), with a particular emphasis on enhancing its practicality. I believe that the widespread adoption of FL systems can unlock innovative possibilities in our daily lives. Currently, my research is concentrated on addressing the label deficiency challenges within FL systems.
+ My research centers on <b>Federated Learning</b> (FL), with a particular emphasis on enhancing its practicality. I believe that the widespread adoption of FL systems can unlock innovative possibilities in our daily lives. My current research focuses on addressing the label deficiency challenges within FL systems.
 {style="text-align: justify;"}
