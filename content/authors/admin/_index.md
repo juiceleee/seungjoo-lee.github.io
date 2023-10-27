@@ -138,7 +138,7 @@ paper:
     
 honor:
   - name: "KAIST 2023 Whole Person Development Award (KAIST Board of Trustee Chairperson's Prize)"
-    exp: "Second place out of 715 students, awarded to top 5 students (0.7%) who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony"
+    exp: "2nd place out of 715 students, awarded to top 5 students (0.7%) who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony"
     org: "KAIST"
     date: "Feb 2023"
   - name: "Engineering Innovator Award"
