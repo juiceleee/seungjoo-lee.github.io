@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: false # Only display this section in the Wowchemy demo site
+    demo: true # Only display this section in the Wowchemy demo site
     content:
       title: Hugo Academic Theme
       image:
