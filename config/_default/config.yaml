@@ -70,6 +70,7 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
+  filename: sitemap.xml
+  priority: 1.0
 minify:
   _merge: deep
