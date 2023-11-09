@@ -152,10 +152,9 @@ project:
     venue: "EE616"
     author: Domain shift detection using programmatic weak supervision
     pdf: https://sjlee.info/uploads/EE616.pdf
-  - name: "Will Overly Polite Sentences Harm Model Performance?
-Adversarial Pragmatic Perturbation for NLP"
+  - name: "Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP"
     venue: "AI620"
-    author: Adversarial attack on LLM model and its defense
+    author: Adversarial attack on LLM model with tone perturbation and its defense
     pdf: https://sjlee.info/uploads/AI620.pdf
   - name: "DeltaCNN: Efficient processing of CNN inference for
 continuous mobile vision"
