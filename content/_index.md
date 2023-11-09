@@ -99,6 +99,10 @@ sections:
       title: Publications
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: 'github.juiceleee.project'
+    id: project
+    content:
+      title: Projects
   - block: 'github.juiceleee.honor'
     id: honor
     content:
