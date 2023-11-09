@@ -140,23 +140,23 @@ project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
     venue: "EE595"
     author: Manipulating Youtube (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
-    pdf: uploads/EE595.pdf
+    pdf: sjlee.info/uploads/EE595.pdf
     website: https://sites.google.com/view/smilelab/teaching?authuser=0
     video: https://www.youtube.com/watch?v=RVQDANiRxUU&t=16s
     award: Selected as interesting project and uploaded to the course website
-  - name: "GraspTracker"
+  - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
     venue: "CS442"
     author: Detecting smartphone grasp posture using inaudible sound and FMCW modulation
-    pdf: uploads/CS442.pdf
+    pdf: sjlee.info/uploads/CS442.pdf
   - name: "Validating Labeling Functions in Domain Shift"
     venue: "EE616"
     author: Domain shift detection using programmatic weak supervision
-    pdf: uploads/EE616.pdf
+    pdf: sjlee.info/uploads/EE616.pdf
   - name: "Will Overly Polite Sentences Harm Model Performance?
 Adversarial Pragmatic Perturbation for NLP"
     venue: "AI620"
     author: Adversarial attack on LLM model and its defense
-    pdf: uploads/AI620.pd
+    pdf: sjlee.info/uploads/AI620.pd
   
 
     
