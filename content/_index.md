@@ -103,6 +103,7 @@ sections:
     id: project
     content:
       title: Projects
+      username: admin
   - block: 'github.juiceleee.honor'
     id: honor
     content:
