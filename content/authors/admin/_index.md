@@ -160,8 +160,7 @@ Adversarial Pragmatic Perturbation for NLP"
   - name: "DeltaCNN: Efficient processing of CNN inference for
 continuous mobile vision"
     venue: "CS530"
-    author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not
-change significantly
+    author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not change significantly
     pdf: https://sjlee.info/uploads/CS530.pdf
   
 
