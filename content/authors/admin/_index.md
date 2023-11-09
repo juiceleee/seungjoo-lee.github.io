@@ -139,7 +139,7 @@ paper:
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
     venue: "EE595"
-    author: Manipulating Youtube (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
+    author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
     pdf: https://sjlee.info/uploads/EE595.pdf
     website: https://sites.google.com/view/smilelab/teaching?authuser=0
     video: https://www.youtube.com/watch?v=RVQDANiRxUU&t=16s
@@ -157,6 +157,12 @@ Adversarial Pragmatic Perturbation for NLP"
     venue: "AI620"
     author: Adversarial attack on LLM model and its defense
     pdf: https://sjlee.info/uploads/AI620.pdf
+  - name: "DeltaCNN: Efficient processing of CNN inference for
+continuous mobile vision"
+    venue: "CS530"
+    author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not
+change significantly
+    pdf: https://sjlee.info/uploads/CS530.pdf
   
 
     
