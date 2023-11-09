@@ -35,7 +35,7 @@ organizations:
 bio: Hello
 
 # Interests to show in About widget
-interests: "Machine Learning, Natural Language Processing"
+interests: "Machine Learning, Mobile Sensing, Natural Language Processing"
 
 # Education to show in About widget
 # education:
@@ -198,5 +198,5 @@ highlight_name: true
 I am currently pursuing a Master's degree at KAIST in <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a> under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received my B.S. degree in Computer Science from KAIST in 2022.
 {style="text-align: justify;"}
 
- My research centers on <b>Federated Learning</b> (FL), with a particular emphasis on enhancing its practicality. I believe that the widespread adoption of FL systems can unlock innovative possibilities in our daily lives. My current research focuses on addressing the label deficiency challenges within FL systems.
+ My research centers on machine learning, mobile sensing, and natural language processing. I am interested in making practical systems that can directly benefit the end users. My current research focuses on federated learning, particularly addressing the label deficiency challenges for making practical FL systems.
 {style="text-align: justify;"}
