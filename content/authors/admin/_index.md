@@ -142,7 +142,7 @@ project:
     author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
     pdf: https://sjlee.info/uploads/EE595.pdf
     website: https://sites.google.com/view/smilelab/teaching?authuser=0
-    video: https://www.youtube.com/watch?v=RVQDANiRxUU&t=16s
+    video: https://www.youtube.com/watch?v=RVQDANiRxUU
     award: Selected as interesting project and uploaded to the course website
   - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
     venue: "CS442"
