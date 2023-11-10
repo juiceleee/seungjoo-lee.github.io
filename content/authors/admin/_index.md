@@ -169,6 +169,10 @@ honor:
     exp: <font color="#4765b6"><b>2nd place out of 715 students</b></font>, awarded to top 5 students (0.7%) who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony
     org: "KAIST"
     date: "Feb 2023"
+  - name: "Summa Cum Laude"
+    exp: Awarded for achieving the highest academic performance among students
+    org: "KAIST"
+    date: "Sep 2022"
   - name: "Engineering Innovator Award"
     exp: Awarded to <font color="#4765b6"><b>5 students each semester</b></font>, who showed outstanding performance in extracurricular activities, including academic publications, entrepreneurial activities, exhibitions, and inventions
     org: "KAIST college of engineering"
@@ -176,7 +180,11 @@ honor:
   - name: "Honorable Mention Award"
     exp: Awarded to <font color="#4765b6"><b>top 5% of all submissions</b></font> in CHI 2022
     org: "ACM SIGCHI"
-    date: "Mar 2022" 
+    date: "Mar 2022"
+  - name: "U.S. Army Certificate of Appreciation"
+    exp: Awarded for exemplary service during military duty, serving as a role model for others
+    org: "U.S. Army"
+    date: "Jul 2021"
   - name: "Dean's List"
     exp: Awarded to <font color="#4765b6"><b>top 3% among 2,900+ students</b></font> in College of Engineering
     org: "KAIST"
