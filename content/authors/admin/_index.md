@@ -35,7 +35,7 @@ organizations:
 bio: Hello
 
 # Interests to show in About widget
-interests: "Mobile Sensing, Weakly-Supervised Learning, Natural Language Processing"
+interests: "Weak-Supervised Learning, Mobile Sensing, Natural Language Processing"
 
 # Education to show in About widget
 # education:
