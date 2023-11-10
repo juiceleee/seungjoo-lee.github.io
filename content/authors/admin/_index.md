@@ -35,7 +35,7 @@ organizations:
 bio: Hello
 
 # Interests to show in About widget
-interests: "Machine Learning, Mobile Sensing, Natural Language Processing"
+interests: "Mobile Sensing, Weakly-Supervised Learning, Natural Language Processing"
 
 # Education to show in About widget
 # education:
@@ -116,7 +116,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 
 paper:
