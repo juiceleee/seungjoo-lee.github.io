@@ -124,6 +124,7 @@ paper:
     venue: "EMNLP '23"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
     pdf: https://arxiv.org/abs/2310.16538
+    website: https://nmsl.kaist.ac.kr/projects/fedtherapist/
   - name: "MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"
     venue: "CHI '22"
     author: Jaemin Shin, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee
@@ -131,6 +132,8 @@ paper:
     website: https://nmsl.kaist.ac.kr/projects/mydj/
     video: https://www.youtube.com/watch?v=77XNl39QoEE
     award: Best Paper Honorable Mention Award (Top 5%)
+
+demo:
   - name: "Accurate Eating Detection on a Daily Wearable Necklace"
     venue: "MobiSys '19 Demo"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
