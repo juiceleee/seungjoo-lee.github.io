@@ -174,6 +174,14 @@ project:
     pdf: https://sjlee.info/uploads/AI620.pdf
     page: https://sjlee.info/project/ai620
     img: uploads/AI620.png
+  - name: "SPADE-based Line Art Colorization"
+    desc: "Course project in KAIST Introduction to Artificial Intelligence course (CS470)"
+    author: SPADE-based model that colorizes a given line art image using a hint image
+    pdf: https://sjlee.info/uploads/CS470.pdf
+    img: uploads/CS470.png
+    page: https://sjlee.info/project/cs470
+    slide: uploads/CS470_slides.pdf
+    code: https://github.com/Ugness/Line-Art-Colorization-SPADE
   - name: "DeltaCNN: Efficient processing of CNN inference for continuous mobile vision"
     desc: "Course project in KAIST Operating System course (CS530)"
     author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not change significantly
