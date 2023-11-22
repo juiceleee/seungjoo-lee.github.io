@@ -144,7 +144,7 @@ demo:
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
-    desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living (EE595)"
+    desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)"
     author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
     pdf: https://sjlee.info/uploads/EE595.pdf
     img: uploads/EE595.png
@@ -152,7 +152,7 @@ project:
     video: https://www.youtube.com/watch?v=RVQDANiRxUU
     award: Selected as interesting project and uploaded to the course website
   - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
-    desc: "Course project in KAIST Mobile Computing and Applications (CS442)"
+    desc: "Course project in KAIST Mobile Computing and Applications course (CS442)"
     author: Detecting smartphone grasp posture using inaudible sound and FMCW modulation
     pdf: https://sjlee.info/uploads/CS442.pdf
     img: uploads/CS442.png
@@ -162,12 +162,12 @@ project:
     pdf: https://sjlee.info/uploads/EE616.pdf
     img: uploads/EE616.png
   - name: "Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP"
-    desc: "Course project in KAIST Bias and Ethics in Natural Language Processing (AI620)"
+    desc: "Course project in KAIST Bias and Ethics in Natural Language Processing course (AI620)"
     author: Adversarial attack on LLM model with tone perturbation and its defense
     pdf: https://sjlee.info/uploads/AI620.pdf
     img: uploads/AI620.png
   - name: "DeltaCNN: Efficient processing of CNN inference for continuous mobile vision"
-    desc: "Course project in KAIST Operating System (CS530)"
+    desc: "Course project in KAIST Operating System course (CS530)"
     author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not change significantly
     pdf: https://sjlee.info/uploads/CS530.pdf
     img: uploads/CS530.png
