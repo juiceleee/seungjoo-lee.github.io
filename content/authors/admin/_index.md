@@ -97,7 +97,7 @@ interests: "Weak-Supervised Learning, Mobile Sensing, Natural Language Processin
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:seungjoolee.24@gmail.com"
+    link: "mailto:seungjoo.lee@kaist.ac.kr"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/seungjoo99
@@ -143,29 +143,33 @@ demo:
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
-    venue: "EE595"
+    desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living (EE595)"
     author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
     pdf: https://sjlee.info/uploads/EE595.pdf
+    img: uploads/EE595.png
     website: https://sites.google.com/view/smilelab/teaching?authuser=0
     video: https://www.youtube.com/watch?v=RVQDANiRxUU
     award: Selected as interesting project and uploaded to the course website
   - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
-    venue: "CS442"
+    desc: "Course project in KAIST Mobile Computing and Applications (CS442)"
     author: Detecting smartphone grasp posture using inaudible sound and FMCW modulation
     pdf: https://sjlee.info/uploads/CS442.pdf
+    img: uploads/CS442.png
   - name: "Validating Labeling Functions in Domain Shift"
-    venue: "EE616"
+    desc: "Course project in KAIST Advanced Big Data-AI Integration (EE616)"
     author: Domain shift detection using programmatic weak supervision
     pdf: https://sjlee.info/uploads/EE616.pdf
+    img: uploads/EE616.png
   - name: "Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP"
-    venue: "AI620"
+    desc: "Course project in KAIST Bias and Ethics in Natural Language Processing (AI620)"
     author: Adversarial attack on LLM model with tone perturbation and its defense
     pdf: https://sjlee.info/uploads/AI620.pdf
-  - name: "DeltaCNN: Efficient processing of CNN inference for
-continuous mobile vision"
-    venue: "CS530"
+    img: uploads/AI620.png
+  - name: "DeltaCNN: Efficient processing of CNN inference for continuous mobile vision"
+    desc: "Course project in KAIST Operating System (CS530)"
     author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not change significantly
     pdf: https://sjlee.info/uploads/CS530.pdf
+    img: uploads/CS530.png
   
 
     
