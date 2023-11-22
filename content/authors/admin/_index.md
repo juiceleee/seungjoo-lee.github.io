@@ -20,7 +20,7 @@ superuser: true
 role_bs: Bachelor's degree @
 
 
-role: Master's student @
+role: Master's student @ <a href="https://ee.kaist.ac.kr/en/">KAIST EE</a>
 
 # Organizations/Affiliations to show in About widget
 organizations_bs:

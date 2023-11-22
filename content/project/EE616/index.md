@@ -26,6 +26,8 @@ slides: ""
 ---
 <i>Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)</i>
 
+<br>
+
 ## Project Summary
 
 <p style="text-align:justify">
