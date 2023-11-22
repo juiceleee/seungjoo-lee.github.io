@@ -35,3 +35,10 @@ Mobile devices are utilized in various user contexts, which depend on the user's
 
 GraspTracker functions by generating a Frequency Modulated Continuous Wave (FMCW) audio signal from the smartphone's earpiece speaker and recording the sound with two distinct microphones. Subsequently, for each recorded sound, a Fast Fourier Transform (FFT) is applied to obtain the frequency response and extract features from the results. Finally, GraspTracker classifies the user's grasp posture based on the extracted features.
 </p>
+
+<br>
+
+## Libraries & Frameworks
+
+- Arduino
+- Python (scikit-learn)

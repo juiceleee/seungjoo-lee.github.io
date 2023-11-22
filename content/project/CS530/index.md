@@ -33,3 +33,9 @@ slides: ""
 <p style="text-align:justify">
 Convolutional Neural Network (CNN) models for \textit{continuous mobile vision} are recently being widely deployed on various mobile applications. While it is desired to run CNN models on mobile devices to avoid exposure of privacy-sensitive mobile data, processing complex CNN models on a resource-constrained mobile device became a bottleneck in assuring model accuracy and QoE. Several studies were conducted to accelerate the processing of CNN model on a mobile device, but the state-of-the-art technology only achieves 600ms to 3500ms latency for processing a single image. To address this issue, we propose \textit{DeltaCNN}, which is a system that efficiently reduces the latency of CNN inference by leveraging the sparsity of the intermediate image frames that hardware-based encoder and decoder processes. From the experimental result, \textit{DeltaCNN} shows the reduced latency as the sparsity of the matrix grows, while the latency of the \textit{DeltaCNN} remains higher than the legacy convolution processing. We expect the latency of the \textit{DeltaCNN} to outperform the legacy processing if it is fully implemented on the hardware-based encoder layer.
 </p>
+
+<br>
+
+## Libraries & Frameworks
+
+- PyTorch

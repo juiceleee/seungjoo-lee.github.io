@@ -34,3 +34,9 @@ slides: ""
 <p style="text-align:justify">
 Non-native English speakers often struggle with controlling tones and nuances, resulting in non-canonical texts that are excessively polite or informal. In this paper, we address this issue by investigating the impact of tone perturbations on NLP models' performance. To generate tone-perturbed adversarial samples, we employ prompt engineering and in-context learning approaches, producing semantically similar yet overly polite paraphrases of original sentences. Through empirical evaluation, we demonstrate that current NLP models are susceptible to such tone-level perturbations, highlighting potential biases and challenges. Furthermore, we propose a simple augmentation-based method to enhance model robustness against adversarial samples. Our work contributes to the development of more inclusive and user-centric NLP systems by shedding light on the impact of tone variations and addressing the needs of non-native English speakers. By uncovering vulnerabilities and offering practical solutions, we strive to improve the accessibility and user experience of AI technologies in linguistic diversity.
 </p>
+
+<br>
+
+## Libraries & Frameworks
+
+- PyTorch
