@@ -36,7 +36,7 @@ Numerous people watch videos through monitor or smartphone screen. We point out 
 
 <br>
 
-<p align="center>
+<p align="center">
 <iframe width="600", height="400" src="https://www.youtube.com/embed/RVQDANiRxUU">
 </iframe>
 </p>
