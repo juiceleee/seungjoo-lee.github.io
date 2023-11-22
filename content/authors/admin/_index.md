@@ -152,30 +152,34 @@ project:
     website: https://sites.google.com/view/smilelab/teaching?authuser=0
     video: https://www.youtube.com/watch?v=RVQDANiRxUU
     slide: uploads/EE595_slides.pdf
-    page: https://sjlee.info/project/ee616
+    page: https://sjlee.info/project/ee595
     award: Selected as interesting project and uploaded to the course website
   - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
     desc: "Course project in KAIST Mobile Computing and Applications course (CS442)"
     author: Detecting smartphone grasp posture using inaudible sound and FMCW modulation
     pdf: https://sjlee.info/uploads/CS442.pdf
     img: uploads/CS442.png
+    page: https://sjlee.info/project/cs442
     slide: uploads/CS442_slides.pdf
   - name: "Validating Labeling Functions in Domain Shift"
     desc: "Course project in KAIST Advanced Big Data-AI Integration (EE616)"
     author: Domain shift detection using programmatic weak supervision
     pdf: https://sjlee.info/uploads/EE616.pdf
     img: uploads/EE616.png
+    page: https://sjlee.info/project/ee616
     slide: uploads/EE616_slides.pdf
   - name: "Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP"
     desc: "Course project in KAIST Bias and Ethics in Natural Language Processing course (AI620)"
     author: Adversarial attack on LLM model with tone perturbation and its defense
     pdf: https://sjlee.info/uploads/AI620.pdf
+    page: https://sjlee.info/project/ai620
     img: uploads/AI620.png
   - name: "DeltaCNN: Efficient processing of CNN inference for continuous mobile vision"
     desc: "Course project in KAIST Operating System course (CS530)"
     author: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not change significantly
     pdf: https://sjlee.info/uploads/CS530.pdf
     img: uploads/CS530.png
+    page: https://sjlee.info/project/cs530
   
 
     

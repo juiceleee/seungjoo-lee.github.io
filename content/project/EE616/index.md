@@ -24,7 +24,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-<i>Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)</i>
+<i>Course project in KAIST Advanced Big Data-AI Integration (EE616)</i>
 
 <br>
 
