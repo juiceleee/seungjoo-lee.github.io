@@ -140,6 +140,7 @@ demo:
     venue: "MobiSys '19 Demo"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
     pdf: https://dl.acm.org/doi/10.1145/3307334.3328565
+    img: uploads/necktural.png
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
