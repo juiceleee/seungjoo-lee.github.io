@@ -2,7 +2,8 @@
 title: "DeltaCNN: Efficient processing of CNN inference for continuous mobile vision"
 summary: Fast calculation of convolutional layers in continuous video streams using the fact that the video scene does not change significantly
 tags:
-  - Deep learning, System
+  - Deep learning
+  - System
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
