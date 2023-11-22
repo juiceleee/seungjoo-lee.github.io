@@ -32,7 +32,7 @@ organizations:
     url: https://ee.kaist.ac.kr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hello
+bio: Seungjoo Lee
 
 # Interests to show in About widget
 interests: "Weak-Supervised Learning, Mobile Sensing, Natural Language Processing"
