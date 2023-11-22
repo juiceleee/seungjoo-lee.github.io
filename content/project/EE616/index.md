@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Validating Labeling Functions in Domain Shift
+summary: Domain shift detection using programmatic weak supervision
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -14,7 +14,7 @@ image:
 
 url_code: ''
 url_pdf: 'https://sjlee.info/uploads/EE616.pdf'
-url_slides: ''
+url_slides: 'https://sjlee.info/uploads/EE616_slides.pdf'
 url_video: ''
 
 # Slides (optional).

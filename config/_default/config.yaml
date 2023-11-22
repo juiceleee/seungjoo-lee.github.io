@@ -74,3 +74,7 @@ sitemap:
   priority: 1.0
 minify:
   _merge: deep
+cascade:
+  _target:
+    path: /project/**
+  share: false
