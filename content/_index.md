@@ -93,6 +93,11 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
+  - block: 'github.juiceleee.news'
+    id: news
+    content:
+      title: News
+      username: admin
   - block: 'github.juiceleee.publication'
     id: publication
     content:

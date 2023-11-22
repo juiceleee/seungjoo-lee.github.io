@@ -119,6 +119,19 @@ social:
     link: uploads/cv.pdf
 
 
+news:
+  - exp: Participating EMNLP 2023 @ Singapore
+    date: Dec 2023
+  - exp: Paper accepted at EMNLP 2023
+    date: Oct 2023
+  - exp: Graduated from KAIST with a bachelor's degree in Computer Science with honors
+    date: Aug 2022
+  - exp: Honorable Mention at ACM CHI 2022
+    date: Mar 2022
+  - exp: Paper accepted at ACM CHI 2022
+    date: Nov 2022
+
+
 paper:
   - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
     venue: "EMNLP '23"
