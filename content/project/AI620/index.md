@@ -1,6 +1,5 @@
 ---
-title: 
-Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP
+title: Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP
 summary: Adversarial attack on LLM model with tone perturbation and its defense
 tags:
   - Deep Learning
