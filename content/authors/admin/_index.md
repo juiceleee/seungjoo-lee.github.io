@@ -152,6 +152,7 @@ project:
     website: https://sites.google.com/view/smilelab/teaching?authuser=0
     video: https://www.youtube.com/watch?v=RVQDANiRxUU
     slide: uploads/EE595_slides.pdf
+    page: https://sjlee.info/project/ee616
     award: Selected as interesting project and uploaded to the course website
   - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
     desc: "Course project in KAIST Mobile Computing and Applications course (CS442)"
