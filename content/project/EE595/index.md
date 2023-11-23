@@ -15,7 +15,7 @@ image:
 url_code: ''
 url_pdf: 'https://sjlee.info/uploads/EE595.pdf'
 url_slides: 'https://sjlee.info/uploads/EE595_slides.pdf'
-url_video: ''
+url_video: 'https://www.youtube.com/embed/RVQDANiRxUU'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
