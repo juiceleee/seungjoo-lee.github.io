@@ -40,7 +40,7 @@ In conventional reinforcement learning paradigms, random sampling strategies are
 <br>
 
 <video width="600" height="400">
-  <source src="uploads/hover_video.mp4" type="video/mp4" controls autoplay/>
+  <source src="uploads/hover_video.mp4" type="video/mp4" autoplay/>
   Your browser does not support the video tag.
 </video>
 
