@@ -30,14 +30,22 @@ slides: ""
 
 ## Result Video
 
-<p align="center">
-<table border="0">
-<tr>
-<td align="center"><img src="uploads/hover_video.gif" alt="hover_video" width="350" height="350">
-<td align="center"><img src="uploads/landing_video.gif" alt="landing_video" width="350" height="350">
-</tr>
-</table>
-</p>
+<center>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="uploads/hover_video.gif" alt="Hovering task" width="350" height="350">
+        <br>
+        Hovering task
+      </td>
+      <td align="center">
+        <img src="uploads/landing_video.gif" alt="Landing task" width="350" height="350">
+        <br>
+        Landing task
+      </td>
+    </tr>
+  </table>
+</center>
 
 <br>
 
