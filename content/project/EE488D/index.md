@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://sjlee.info/uploads/EE488D.pdf'
 url_slides: ''
 url_video: ''
 

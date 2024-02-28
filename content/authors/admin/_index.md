@@ -175,6 +175,7 @@ project:
     author: Hovering & landing task with soft actor critic & curiosity-driven experience replay
     page: https://sjlee.info/project/ee488d
     img: uploads/EE488D.png
+    pdf: https://sjlee.info/uploads/EE488D.pdf
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
     desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)"
     author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
