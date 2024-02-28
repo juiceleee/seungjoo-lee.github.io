@@ -205,7 +205,7 @@ project:
 
     
 honor:
-  - name: "KAIST 2023 Whole Person Development Award (KAIST Board of Trustee Chairperson's Prize)"
+  - name: "KAIST 2023 Winner of the Graduate of the Year Awards (KAIST Board of Trustee Chairperson's Prize)"
     exp: <font color="#4765b6"><b>2nd place out of 715 students</b></font>, awarded to top 5 students (0.7%) who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony
     org: "KAIST"
     date: "Feb 2023"
