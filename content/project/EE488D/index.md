@@ -30,7 +30,7 @@ slides: ""
 
 ## Project Summary
 
-
+<p style="text-align:justify">
 Implemented the Soft Actor Critic (SAC) algorithm for discrete action space. Key ideas of SAC are using entropy regularization, and a temperature parameter. Entropy represents the randomness or uncertainty in a probability distribution. Through policy entropy maximization, SAC promotes exploration and prevents premature convergence. During training, the policy's entropy is adjusted according to the predefined target entropy. SAC introduces a temperature parameter, α (alpha), to manage exploration and exploitation trade-offs. Higher values of α result in more exploration, while lower values prioritize exploitation. We made this temperature parameter as a learnable parameter.
 </p>
 <p style="text-align:justify">
