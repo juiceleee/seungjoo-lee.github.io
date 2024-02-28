@@ -40,13 +40,11 @@ In conventional reinforcement learning paradigms, random sampling strategies are
 <br>
 
 <video width="600" height="400">
-  <source src="uploads/hover_video.mp4" type="video/mp4" autoplay/>
+  <source src="uploads/hover_video.mp4" type="sample/mp4" autoplay/>
 </video>
 
 <br>
 
 ## Libraries & Frameworks
 
-- Arduino
-- Android
-- Firebase
+- Pytorch
