@@ -157,7 +157,7 @@ demo:
     img: uploads/necktural.png
 
 project:
-- name: "Validating Labeling Functions in Domain Shift (Out of Domain Detection)"
+  - name: "Validating Labeling Functions in Domain Shift (Out of Domain Detection)"
     desc: "Course project in KAIST Advanced Big Data-AI Integration (EE616)"
     author: Domain shift detection using programmatic weak supervision
     pdf: https://sjlee.info/uploads/EE616.pdf
