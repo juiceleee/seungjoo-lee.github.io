@@ -157,6 +157,19 @@ demo:
     img: uploads/necktural.png
 
 project:
+- name: "Validating Labeling Functions in Domain Shift (Out of Domain Detection)"
+    desc: "Course project in KAIST Advanced Big Data-AI Integration (EE616)"
+    author: Domain shift detection using programmatic weak supervision
+    pdf: https://sjlee.info/uploads/EE616.pdf
+    img: uploads/EE616.png
+    page: https://sjlee.info/project/ee616
+    slide: uploads/EE616_slides.pdf
+  - name: "Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP"
+    desc: "Course project in KAIST Bias and Ethics in Natural Language Processing course (AI620)"
+    author: Adversarial attack on LLM model with tone perturbation and its defense
+    pdf: https://sjlee.info/uploads/AI620.pdf
+    page: https://sjlee.info/project/ai620
+    img: uploads/AI620.png
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
     desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)"
     author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
@@ -174,19 +187,6 @@ project:
     img: uploads/CS442.png
     page: https://sjlee.info/project/cs442
     slide: uploads/CS442_slides.pdf
-  - name: "Validating Labeling Functions in Domain Shift"
-    desc: "Course project in KAIST Advanced Big Data-AI Integration (EE616)"
-    author: Domain shift detection using programmatic weak supervision
-    pdf: https://sjlee.info/uploads/EE616.pdf
-    img: uploads/EE616.png
-    page: https://sjlee.info/project/ee616
-    slide: uploads/EE616_slides.pdf
-  - name: "Will Overly Polite Sentences Harm Model Performance? Adversarial Pragmatic Perturbation for NLP"
-    desc: "Course project in KAIST Bias and Ethics in Natural Language Processing course (AI620)"
-    author: Adversarial attack on LLM model with tone perturbation and its defense
-    pdf: https://sjlee.info/uploads/AI620.pdf
-    page: https://sjlee.info/project/ai620
-    img: uploads/AI620.png
   - name: "SPADE-based Line Art Colorization"
     desc: "Course project in KAIST Introduction to Artificial Intelligence course (CS470)"
     author: SPADE-based model that colorizes a given line art image using a hint image
