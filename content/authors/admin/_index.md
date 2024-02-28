@@ -170,6 +170,11 @@ project:
     pdf: https://sjlee.info/uploads/AI620.pdf
     page: https://sjlee.info/project/ai620
     img: uploads/AI620.png
+  - name: "Rocket Recycling with Reinforcement Learning"
+    desc: "Course project in KAIST Reinforcement Learning (EE488D)"
+    author: Hovering & landing task with soft actor critic & curiosity-driven experience replay
+    page: https://sjlee.info/project/ee488d
+    img: uploads/EE488D.png
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
     desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)"
     author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
