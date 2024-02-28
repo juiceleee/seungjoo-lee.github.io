@@ -30,18 +30,18 @@ slides: ""
 
 ## Project Summary
 
-<p style="text-align:justify">
-Implemented the Soft Actor Critic (SAC) algorithm for discrete action space. Key ideas of SAC are using entropy regularization, and a temperature parameter. Entropy represents the randomness or uncertainty in a probability distribution. Through policy entropy maximization, SAC promotes exploration and prevents premature convergence. During training, the policy's entropy is adjusted according to the predefined target entropy. SAC introduces a temperature parameter, α (alpha), to manage exploration and exploitation trade-offs. Higher values of α result in more exploration, while lower values prioritize exploitation. We made this temperature parameter as a learnable parameter.
 
+Implemented the Soft Actor Critic (SAC) algorithm for discrete action space. Key ideas of SAC are using entropy regularization, and a temperature parameter. Entropy represents the randomness or uncertainty in a probability distribution. Through policy entropy maximization, SAC promotes exploration and prevents premature convergence. During training, the policy's entropy is adjusted according to the predefined target entropy. SAC introduces a temperature parameter, α (alpha), to manage exploration and exploitation trade-offs. Higher values of α result in more exploration, while lower values prioritize exploitation. We made this temperature parameter as a learnable parameter.
+</p>
+<p style="text-align:justify">
 In conventional reinforcement learning paradigms, random sampling strategies are typically employed for replay buffer management. Since the random sampling strategy does not explicitly encourage an agent to explore novel experiences, in order to maximize the information gain and training speed, we instead implemented the Curiosity-driven Experience Replay (CER) algorithm. Instead of selecting samples randomly, the CER algorithm leverages an intrinsic reward system to prioritize samples that provide the agent with the most novel information.
 </p>
 
 <br>
 
-<p align="center">
-<video width="600" height="400" src="uploads/hover_video.mp4">
+<video width="600" height="400">
+  <source src="uploads/hover_video.mp4" type="video/mp4" autoplay/>
 </video>
-</p>
 
 <br>
 
