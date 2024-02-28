@@ -28,6 +28,19 @@ slides: ""
 
 <br>
 
+## Result Video
+
+<p align="center">
+<table border="0">
+<tr>
+<td align="center"><img src="uploads/hover_video.gif" alt="hover_video" width="350" height="350">
+<td align="center"><img src="uploads/landing_video.gif" alt="landing_video" width="350" height="350">
+</tr>
+</table>
+</p>
+
+<br>
+
 ## Project Summary
 
 <p style="text-align:justify">
@@ -35,17 +48,6 @@ Implemented the Soft Actor Critic (SAC) algorithm for discrete action space. Key
 </p>
 <p style="text-align:justify">
 In conventional reinforcement learning paradigms, random sampling strategies are typically employed for replay buffer management. Since the random sampling strategy does not explicitly encourage an agent to explore novel experiences, in order to maximize the information gain and training speed, we instead implemented the Curiosity-driven Experience Replay (CER) algorithm. Instead of selecting samples randomly, the CER algorithm leverages an intrinsic reward system to prioritize samples that provide the agent with the most novel information.
-</p>
-
-<br>
-
-<p align="center">
-<table>
-<tr>
-<td align="center"><img src="uploads/hover_video.gif" alt="hover_video" width="350" height="350">
-<td align="center"><img src="uploads/landing_video.gif" alt="landing_video" width="350" height="350">
-</tr>
-</table>
 </p>
 
 <br>
