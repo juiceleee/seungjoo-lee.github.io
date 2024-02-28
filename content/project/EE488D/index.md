@@ -40,8 +40,12 @@ In conventional reinforcement learning paradigms, random sampling strategies are
 <br>
 
 <p align="center">
-<img src="uploads/hover_video.gif" alt="hover_video" width="400" height="400">
-<img src="uploads/landing_video.gif" alt="landing_video" width="400" height="400">
+<table>
+<tr>
+<td align="center"><img src="uploads/hover_video.gif" alt="hover_video" width="350" height="350">
+<td align="center"><img src="uploads/landing_video.gif" alt="landing_video" width="350" height="350">
+</tr>
+</table>
 </p>
 
 <br>
