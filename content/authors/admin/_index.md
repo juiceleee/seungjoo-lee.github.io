@@ -95,31 +95,32 @@ interests: "Weak-Supervised Learning, Mobile Sensing, Natural Language Processin
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
+  - icon: fa-envelope
+    icon_pack: fa-solid
     link: "mailto:seungjoo.lee@kaist.ac.kr"
     name: Email
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/seungjoo99
-    name: Twitter
 
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: fa-square-x-twitter
+    icon_pack: fa-brands
+    link: https://twitter.com/seungjoo99
+    name: X
+
+  - icon: fa-graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fa-solid
     link: https://scholar.google.com/citations?user=OsoaE7UAAAAJ&hl=en&authuser=2
     name: Google Scholar
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
+  - icon: fa-linkedin
+    icon_pack: fa-brands
     link: https://www.linkedin.com/in/seungjoo-lee-800264236/
     name: LinkedIn
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: fa-file-lines
-    icon_pack: fa-light
+  - icon: fa-file
+    icon_pack: fa-regular
     link: uploads/cv.pdf
     name: CV
 
