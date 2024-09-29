@@ -225,6 +225,11 @@ project:
 
     
 honor:
+  - name: "KAIST Breakthroughs"
+    exp: Biannual webzine showcasing groundbreaking works
+    org: "KAIST"
+    date: "Spring 2024"
+
   - name: "KAIST 2023 Winner of the Graduate of the Year Award (KAIST Board of Trustee Chairperson's Prize)"
     exp: <font color="#4765b6"><b>2nd place out of 715 students</b></font>, awarded to top 5 students (0.7%) who demonstrated outstanding performances in various activities as well as in grades. Awarded at the commencement ceremony
     org: "KAIST"
