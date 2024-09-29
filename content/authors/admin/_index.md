@@ -118,8 +118,8 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
+  - icon: fa-file-lines
+    icon_pack: fa-light
     link: uploads/cv.pdf
     name: CV
 
