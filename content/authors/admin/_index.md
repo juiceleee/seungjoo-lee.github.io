@@ -100,7 +100,7 @@ social:
     link: "mailto:seungjoo.lee@kaist.ac.kr"
     name: Email
 
-  - icon: fa-x-twitter
+  - icon: fa-twitter
     icon_pack: fa-brands
     link: https://twitter.com/seungjoo99
     name: X
