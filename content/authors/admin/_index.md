@@ -143,6 +143,10 @@ news:
 
 
 paper:
+  - name: "(FL)<sup>2</sup>: Overcoming Few Labels in Federated Semi-Supervised Learning"
+    venue: "NeurIPS '24"
+    author: <font color="#4765b6"><b>Seungjoo Lee</b></font>, Thanh-Long V. Le, Jaemin Shin, Sung-Ju Lee
+    img: uploads/FLFL.png
   - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
     venue: "EMNLP '23"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
