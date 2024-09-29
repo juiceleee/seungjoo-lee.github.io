@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role_bs: Bachelor's degree @
+# role_bs: Bachelor's degree @
 
 
 # role: Master's student @ <a href="https://ee.kaist.ac.kr/en/">KAIST EE</a>
