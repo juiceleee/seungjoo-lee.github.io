@@ -128,7 +128,7 @@ social:
 news:
   - exp: 🎉 Paper accepted at NeurIPS 2024
     date: Sep 2024 |
-  - exp: 👨‍💻 Research intern @ Microsoft Research (Mentor: <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>)
+  - exp: 👨‍💻 Research intern @ Microsoft Research (Mentor\: <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>)
     date: Sep 2024 |
   - exp: ✈️ Participating EMNLP 2023 @ Singapore
     date: Dec 2023 |
