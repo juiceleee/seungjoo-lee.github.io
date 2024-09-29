@@ -259,7 +259,9 @@ honor:
 highlight_name: true
 ---
 
-I am a graduate student researcher at KAIST in <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a> under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I am doing a research internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, mentored by <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>.
+I am a graduate student researcher at the <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, where I work under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. Currently, I am a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, mentored by <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>. I received an M.S. degree in Electrical Engineering from <a href="https://www.kaist.ac.kr/en/">KAIST</a> and a B.S. degree in Computer Science from the same institution.
+
+
 {style="text-align: justify;"}
 
 My research interest lies in the development of practical machine learning systems capable of real-world deployment, thereby benefiting individuals. For this, I am working on Federated Learning (FL) and ML-powered mobile sensing applications. My current research focuses on practical FL, particularly addressing label deficiency challenges.
