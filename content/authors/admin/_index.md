@@ -143,7 +143,7 @@ news:
 
 
 paper:
-  - name: (FL)<sup>2</sup> Overcoming Few Labels in Federated Semi-Supervised Learning
+  - name: (FL) <sup>2</sup> Overcoming Few Labels in Federated Semi-Supervised Learning
     venue: "NeurIPS '24"
     author: <font color="#4765b6"><b>Seungjoo Lee</b></font>, Thanh-Long V. Le, Jaemin Shin, Sung-Ju Lee
     img: uploads/FLFL.png
