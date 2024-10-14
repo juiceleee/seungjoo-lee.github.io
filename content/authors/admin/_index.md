@@ -275,5 +275,5 @@ I am a graduate student researcher at the <a href="https://nmsl.kaist.ac.kr/">Ne
 
 {style="text-align: justify;"}
 
-My research interest lies in artificial intelligence (AI) and mobile sensing, with a passion for developing practical machine learning systems for real-world deployment to benefit individuals. Recently, I have been focusing on pratical Federated Learning (FL) and foundation model for sensor data.
+My research interest lies in machine learning for healthcare, mobile sensing, federated learning and large language models. I am passionate about building practical machine learning systems designed for real-world deployment to improve individual lives. Recently, I have been working on advancing Federated Learning (FL) for medical applications and developing foundation models for healthcare, particularly using sensor data.
 {style="text-align: justify;"}
