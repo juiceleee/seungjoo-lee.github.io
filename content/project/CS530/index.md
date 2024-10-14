@@ -14,7 +14,7 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: 'https://sjlee.info/uploads/CS530.pdf'
+url_pdf: 'https://seungjoo.com/uploads/CS530.pdf'
 url_slides: ''
 url_video: ''
 

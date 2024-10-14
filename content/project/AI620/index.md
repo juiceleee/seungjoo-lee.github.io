@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: 'https://sjlee.info/uploads/AI620.pdf'
+url_pdf: 'https://seungjoo.com/uploads/AI620.pdf'
 url_slides: ''
 url_video: ''
 

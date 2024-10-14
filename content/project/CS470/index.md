@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 url_code: 'https://github.com/Ugness/Line-Art-Colorization-SPADE'
-url_pdf: 'https://sjlee.info/uploads/CS470.pdf'
-url_slides: 'https://sjlee.info/uploads/CS470_slides.pdf'
+url_pdf: 'https://seungjoo.com/uploads/CS470.pdf'
+url_slides: 'https://seungjoo.com/uploads/CS470_slides.pdf'
 url_video: ''
 
 # Slides (optional).

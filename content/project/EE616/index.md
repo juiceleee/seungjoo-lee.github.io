@@ -13,8 +13,8 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: 'https://sjlee.info/uploads/EE616.pdf'
-url_slides: 'https://sjlee.info/uploads/EE616_slides.pdf'
+url_pdf: 'https://seungjoo.com/uploads/EE616.pdf'
+url_slides: 'https://seungjoo.com/uploads/EE616_slides.pdf'
 url_video: ''
 
 # Slides (optional).
