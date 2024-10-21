@@ -21,9 +21,9 @@ marketing:
     description: "Seungjoo Lee's personal website"
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-HDWSL283VC'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'GT-TWT8DPMT'
     microsoft_clarity: ''  
   verification:
     google: ''
