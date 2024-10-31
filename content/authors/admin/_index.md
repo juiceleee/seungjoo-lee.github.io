@@ -147,6 +147,9 @@ paper:
     venue: "NeurIPS '24"
     author: <font color="#4765b6"><b>Seungjoo Lee</b></font>, Thanh-Long V. Le, Jaemin Shin, Sung-Ju Lee
     img: uploads/FLFL.png
+    pdf: https://arxiv.org/abs/2410.23227
+    website: https://nmsl.kaist.ac.kr/projects/fl2/
+    code: https://github.com/seungjoo-ai/FLFL-NeurIPS24
   - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
     venue: "EMNLP '23"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
