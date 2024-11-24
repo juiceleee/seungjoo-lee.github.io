@@ -138,7 +138,7 @@ news:
     date: Oct 2023 |
   - exp: 🎓 Graduated from KAIST with a bachelor's degree in Computer Science with honors
     date: Aug 2022 |
-  - exp: 🎉 Honorable Mention at ACM CHI 2022
+  - exp: 🏅 Honorable Mention Award at ACM CHI 2022
     date: Mar 2022 |
   - exp: 🎉 Paper accepted at ACM CHI 2022
     date: Nov 2022 |
