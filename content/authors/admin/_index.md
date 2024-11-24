@@ -126,11 +126,13 @@ social:
 
 
 news:
+  - exp: ✈️ Participating NeurIPS 2024 @ Vancouver 🇨🇦
+    date: Dec 2024 |
   - exp: 🎉 Paper accepted at NeurIPS 2024
     date: Sep 2024 |
   - exp: 👨‍💻 Research intern @ Microsoft Research (Mentor - <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>)
     date: Sep 2024 |
-  - exp: ✈️ Participating EMNLP 2023 @ Singapore
+  - exp: ✈️ Participating EMNLP 2023 @ Singapore 🇸🇬
     date: Dec 2023 |
   - exp: 🎉 Paper accepted at EMNLP 2023
     date: Oct 2023 |
@@ -174,6 +176,23 @@ demo:
     img: uploads/necktural.png
 
 project:
+  - name: "Context-aware automatic video screen manipulation using trajectory tracking"
+    desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)"
+    author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
+    pdf: https://seungjoo.com/uploads/EE595.pdf
+    img: uploads/EE595.png
+    website: https://sites.google.com/view/smilelab/teaching?authuser=0
+    video: https://www.youtube.com/watch?v=RVQDANiRxUU
+    slide: uploads/EE595_slides.pdf
+    page: https://seungjoo.com/project/ee595
+    award: Selected as interesting project and uploaded to the course website
+  - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
+    desc: "Course project in KAIST Mobile Computing and Applications course (CS442)"
+    author: Detecting smartphone grasp posture using inaudible sound and FMCW modulation
+    pdf: https://seungjoo.com/uploads/CS442.pdf
+    img: uploads/CS442.png
+    page: https://seungjoo.com/project/cs442
+    slide: uploads/CS442_slides.pdf
   - name: "Validating Labeling Functions in Domain Shift (Out of Domain Detection)"
     desc: "Course project in KAIST Advanced Big Data-AI Integration (EE616)"
     author: Domain shift detection using programmatic weak supervision
@@ -193,23 +212,6 @@ project:
     page: https://seungjoo.com/project/ee488d
     img: uploads/EE488D.png
     pdf: https://seungjoo.com/uploads/EE488D.pdf
-  - name: "Context-aware automatic video screen manipulation using trajectory tracking"
-    desc: "Course project in KAIST Mobile Computing and Systems for Intelligent Living course (EE595)"
-    author: Manipulating Youtube interface (rotate, zoom, relay from smartphone to laptop) using user head location & orientation. </br>Implemented head tracking using Arduino & bluetooth connection between laptop, smartphone, and Arduino
-    pdf: https://seungjoo.com/uploads/EE595.pdf
-    img: uploads/EE595.png
-    website: https://sites.google.com/view/smilelab/teaching?authuser=0
-    video: https://www.youtube.com/watch?v=RVQDANiRxUU
-    slide: uploads/EE595_slides.pdf
-    page: https://seungjoo.com/project/ee595
-    award: Selected as interesting project and uploaded to the course website
-  - name: "GraspTraker: Tracking smartphone grab posture with inaudible sound"
-    desc: "Course project in KAIST Mobile Computing and Applications course (CS442)"
-    author: Detecting smartphone grasp posture using inaudible sound and FMCW modulation
-    pdf: https://seungjoo.com/uploads/CS442.pdf
-    img: uploads/CS442.png
-    page: https://seungjoo.com/project/cs442
-    slide: uploads/CS442_slides.pdf
   - name: "SPADE-based Line Art Colorization"
     desc: "Course project in KAIST Introduction to Artificial Intelligence course (CS470)"
     author: SPADE-based model that colorizes a given line art image using a hint image
