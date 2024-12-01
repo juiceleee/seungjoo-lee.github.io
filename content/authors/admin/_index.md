@@ -128,8 +128,8 @@ social:
 news:
   - exp: ✈️ Participating NeurIPS 2024 @ Vancouver 🇨🇦
     date: Dec 2024 |
-  - exp: 🎤 Giving talk about  <a href="https://nmsl.kaist.ac.kr/projects/fl2/">(FL)<sup>2</sup></a>@ Microsoft Research
-    date: Dec 2024 |
+  - exp: 🎤 Giving talk about  <a href="https://nmsl.kaist.ac.kr/projects/fl2/">(FL)<sup>2</sup></a> @ Microsoft Research
+    date: Nov 2024 |
   - exp: 🎉 Paper accepted at NeurIPS 2024
     date: Sep 2024 |
   - exp: 👨‍💻 Research intern @ Microsoft Research (Mentor - <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>)
