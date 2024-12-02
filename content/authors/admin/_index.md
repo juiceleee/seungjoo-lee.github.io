@@ -268,7 +268,12 @@ honor:
   - name: "National excellence scholarship"
     exp: National scholarship to students who showed excellence
     org: "Korea Student Aid Foundation"
-    date: "Fall 2018 - Fall 2019" 
+    date: "Fall 2018 - Fall 2019"
+
+  miscellaneous:
+  - name: "Me giving demo"
+    desc: "After presenting a demo to Mustafa Suleyman, Microsoft AI CEO!"
+    img: uploads/demo.jpeg
 
 
 # Highlight the author in author lists? (true/false)

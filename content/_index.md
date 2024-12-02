@@ -114,6 +114,11 @@ sections:
     content:
       title: Projects
       username: admin
+  - block: 'github.juiceleee.miscellaneous'
+    id: miscellaneous
+    content:
+      title: Miscellaneous
+      username: admin
   # - block: collection
   #   id: posts
   #   content:
