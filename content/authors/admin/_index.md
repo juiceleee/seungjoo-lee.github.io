@@ -270,7 +270,7 @@ honor:
     org: "Korea Student Aid Foundation"
     date: "Fall 2018 - Fall 2019"
 
-  miscellaneous:
+miscellaneous:
   - name: "Me giving demo"
     desc: "After presenting a demo to Mustafa Suleyman, Microsoft AI CEO!"
     img: uploads/demo.jpeg
