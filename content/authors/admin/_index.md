@@ -272,7 +272,7 @@ honor:
 
 miscellaneous:
   - name: "Me giving demo"
-    desc: "After presenting a demo to Mustafa Suleyman, Microsoft AI CEO!"
+    desc: "After presenting a live demo to Mustafa Suleyman, Microsoft AI CEO!"
     img: uploads/demo.jpeg
 
 
