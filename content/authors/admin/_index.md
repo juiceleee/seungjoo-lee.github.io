@@ -148,20 +148,20 @@ news:
 
 paper:
   - name: "(FL)<sup>2</sup>: Overcoming Few Labels in Federated Semi-Supervised Learning"
-    venue: "NeurIPS '24"
+    venue: "NeurIPS 2024"
     author: <font color="#4765b6"><b>Seungjoo Lee</b></font>, Thanh-Long V. Le, Jaemin Shin, Sung-Ju Lee
     img: uploads/FLFL.png
     pdf: https://arxiv.org/abs/2410.23227
     website: https://nmsl.kaist.ac.kr/projects/fl2/
     code: https://github.com/seungjoo-ai/FLFL-NeurIPS24
   - name: "FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning"
-    venue: "EMNLP '23"
+    venue: "EMNLP 2023"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
     pdf: https://arxiv.org/abs/2310.16538
     website: https://nmsl.kaist.ac.kr/projects/fedtherapist/
     img: uploads/fedtherapist.png
   - name: "MyDJ: Sensing Food Intakes with an Attachable on Your Eyeglass Frame"
-    venue: "CHI '22"
+    venue: "CHI 2022"
     author: Jaemin Shin, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Taesik Gong, Hyungjun Yoon, Hyunchul Roh, Andrea Bianchi, and Sung-Ju Lee
     pdf: https://dl.acm.org/doi/abs/10.1145/3491102.3502041
     website: https://nmsl.kaist.ac.kr/projects/mydj/
@@ -172,10 +172,15 @@ paper:
 
 demo:
   - name: "Accurate Eating Detection on a Daily Wearable Necklace"
-    venue: "MobiSys '19 Demo"
+    venue: "MobiSys 2019 Demo"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
     pdf: https://dl.acm.org/doi/10.1145/3307334.3328565
     img: uploads/necktural.png
+
+preprint:
+  - name: Anonymized Title
+    venue: "ICML 2025"
+    author: XiaoMeng Chen*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Hyungjun Yoon*, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, Lili Qiu <br> <i>* Equal contribution. † Equal senior role</i>
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
