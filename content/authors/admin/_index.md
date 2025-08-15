@@ -20,7 +20,7 @@ superuser: true
 # role_bs: Bachelor's degree @
 
 
-role: Graduate Student Researcher @ KAIST <br> Research Intern @ Microsoft Research
+role: "PhD Student @ Carnegie Mellon University <br> Prev: Research Intern @ Microsoft Research"
 
 # Organizations/Affiliations to show in About widget
 organizations_bs:
@@ -35,7 +35,7 @@ organizations:
 bio: Seungjoo Lee
 
 # Interests to show in About widget
-interests: "I am applying to PhD programs for Fall 2025!"
+interests: "Machine Learning for Healthcare, Mobile Sensing"
 
 # Education to show in About widget
 # education:
@@ -97,7 +97,7 @@ interests: "I am applying to PhD programs for Fall 2025!"
 social:
   - icon: fa-envelope
     icon_pack: fa-solid
-    link: "mailto:seungjoo.lee@kaist.ac.kr"
+    link: "mailto:seungjoolee@cmu.edu"
     name: Email
 
   - icon: fa-twitter
@@ -126,6 +126,8 @@ social:
 
 
 news:
+  - exp: 🎓 Starting my PhD at Cargenie Mellon University
+    date: Aug 2025 |
   - exp: ✈️ Participating NeurIPS 2024 @ Vancouver 🇨🇦
     date: Dec 2024 |
   - exp: 🎤 Giving talk about  <a href="https://nmsl.kaist.ac.kr/projects/fl2/">(FL)<sup>2</sup></a> @ Microsoft Research
@@ -285,12 +287,13 @@ miscellaneous:
 highlight_name: true
 ---
 
-I am a graduate student researcher at the <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, where I work under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. Currently, I am a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, mentored by <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>. I received an M.S. degree in Electrical Engineering from <a href="https://www.kaist.ac.kr/en/">KAIST</a> and a B.S. degree in Computer Science from the same institution with <span style="font-weight: bold !important;">Summa Cum Laude</span> and <span style="font-weight: bold !important;">Honor (Winner of the Graduate of the Year)</span>.
-
-
-
-
+I am a first-year PhD student in the <a href="https://www.cs.cmu.edu/">School of Computer Science</a> at CMU, advised by Prof. <a href="https://hcii.cmu.edu/people/mayank-goel">Mayank Goel</a> and Prof. <a href="https://www.cs.cmu.edu/~justinc3/">Justin Chan</a>. My research focuses on machine learning for healthcare and mobile sensing. I am passionate about building learning systems designed for real-world deployment to improve individual lives.
 {style="text-align: justify;"}
 
-My research interest lies in machine learning for healthcare, mobile sensing, federated learning and large language models. I am passionate about building practical machine learning systems designed for real-world deployment to improve individual lives. Recently, I have been working on advancing Federated Learning (FL) for medical applications and developing wearable health sensing device with EXG signal.
+<!-- Previously, I worked as a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, mentored by <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>. Prior to joining CMU, I was a member of the <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, where I work under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received an M.S. degree in Electrical Engineering from <a href="https://www.kaist.ac.kr/en/">KAIST</a> and a B.S. degree in Computer Science from the same institution with <span style="font-weight: bold !important;">Summa Cum Laude</span> and <span style="font-weight: bold !important;">Honor (Winner of the Graduate of the Year)</span>. -->
+
+Previously, I was a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, where I was mentored by Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>. Before joining CMU, I was a member of the <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a> at <a href="https://www.kaist.ac.kr/en/">KAIST</a>, working under the guidance of Prof. <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I earned my M.S. in Electrical Engineering from <a href="https://www.kaist.ac.kr/en/">KAIST</a>, and my B.S. in Computer Science from the same institution, graduating <span style="font-weight: bold !important;">Summa Cum Laude</span> and receiving the <span style="font-weight: bold !important;">Honor (Winner of the Graduate of the Year)</span>.
 {style="text-align: justify;"}
+
+<!-- My research interest lies in machine learning for healthcare, mobile sensing, federated learning and large language models. I am passionate about building practical machine learning systems designed for real-world deployment to improve individual lives. Recently, I have been working on advancing Federated Learning (FL) for medical applications and developing wearable health sensing device with EXG signal.
+{style="text-align: justify;"} -->
