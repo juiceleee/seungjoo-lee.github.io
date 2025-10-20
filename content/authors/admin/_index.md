@@ -126,7 +126,7 @@ social:
 
 
 news:
-  - exp: 🏅 Recognized as a Top Reviewer at NeurIPS 2025 (top 8.02%)
+  - exp: 🏅 Recognized as a Top Reviewer at NeurIPS 2025 (top 8.02% of 24,429 reviewers)
     date: Oct 2025 |
   - exp: 🎓 Starting my PhD at Cargenie Mellon University
     date: Aug 2025 |
