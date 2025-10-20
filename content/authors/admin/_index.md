@@ -126,6 +126,8 @@ social:
 
 
 news:
+  - exp: 🏅 Recognized as a Top Reviewer at NeurIPS 2025 (top 8.02%)
+    date: Oct 2025 |
   - exp: 🎓 Starting my PhD at Cargenie Mellon University
     date: Aug 2025 |
   - exp: ✈️ Participating NeurIPS 2024 @ Vancouver 🇨🇦
@@ -173,6 +175,11 @@ paper:
     slide: uploads/mydj_slides.pdf
 
 demo:
+  - name: "CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles"
+    venue: "MobiSys Workshops (EnvSys) 2025"
+    author: Taeckyung Lee, Juseung Lee, Ryuhaerang Choi, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Hyeongheon Cha, Hyungjun Yoon, Song Min Kim, Sangwook Bak, Sung-Ju Lee
+    pdf: https://dl.acm.org/doi/10.1145/3742460.3742982
+    img: uploads/CrashSniffer.png
   - name: "Accurate Eating Detection on a Daily Wearable Necklace"
     venue: "MobiSys 2019 Demo"
     author: Jaemin Shin, Hyungjun Yoon, <font color="#4765b6"><b>Seungjoo Lee</b></font>, Sungjoon Park, Yunxin Liu, Jinho D. Choi, Sung-Ju Lee
@@ -181,7 +188,7 @@ demo:
 
 preprint:
   - name: Anonymized Title
-    venue: "ICML 2025"
+    venue: "ICLR 2026"
     author: XiaoMeng Chen*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Hyungjun Yoon*, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, Lili Qiu <br> <i>* Equal contribution. † Equal senior role</i>
 
 project:
@@ -239,6 +246,10 @@ project:
 
     
 honor:
+  - name: "NeurIPS 2025 Top Reviewer (Top 8.02%)"
+    exp: Recognized among the top 8.02% of 24,429 reviewers
+    org: "NeurIPS"
+    date: "Oct 2025"
   - name: "KAIST Breakthroughs"
     exp: Biannual webzine showcasing groundbreaking works
     org: "KAIST"
@@ -287,7 +298,7 @@ miscellaneous:
 highlight_name: true
 ---
 
-I am a first-year PhD student in the <a href="https://www.cs.cmu.edu/">School of Computer Science</a> at CMU, advised by Prof. <a href="https://hcii.cmu.edu/people/mayank-goel">Mayank Goel</a> and Prof. <a href="https://www.cs.cmu.edu/~justinc3/">Justin Chan</a>. My research focuses on machine learning for healthcare and mobile sensing. I am passionate about building learning systems designed for real-world deployment to improve individual lives.
+I am a PhD student in the <a href="https://www.cs.cmu.edu/">School of Computer Science</a> at CMU, advised by Prof. <a href="https://hcii.cmu.edu/people/mayank-goel">Mayank Goel</a> and Prof. <a href="https://www.cs.cmu.edu/~justinc3/">Justin Chan</a>. My research focuses on machine learning for healthcare and mobile sensing. I am passionate about building learning systems designed for real-world deployment to improve individual lives.
 {style="text-align: justify;"}
 
 <!-- Previously, I worked as a Research Intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research</a>, mentored by <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>. Prior to joining CMU, I was a member of the <a href="https://nmsl.kaist.ac.kr/">Network & Mobile Systems Lab (NMSL)</a>, <a href="https://www.kaist.ac.kr/en/">KAIST</a>, where I work under the guidance of Professor <a href="https://sites.google.com/site/wewantsj/">Sung-Ju Lee</a>. I received an M.S. degree in Electrical Engineering from <a href="https://www.kaist.ac.kr/en/">KAIST</a> and a B.S. degree in Computer Science from the same institution with <span style="font-weight: bold !important;">Summa Cum Laude</span> and <span style="font-weight: bold !important;">Honor (Winner of the Graduate of the Year)</span>. -->
