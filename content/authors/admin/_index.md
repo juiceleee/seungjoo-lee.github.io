@@ -247,7 +247,7 @@ project:
     
 honor:
   - name: "NeurIPS 2025 Top Reviewer (Top 8.02%)"
-    exp: Recognized among the top 8.02% of 24,429 reviewers
+    exp: Recognized among the <font color="#4765b6"><b>top 8.02% of 24,429 reviewers</b></font>
     org: "NeurIPS"
     date: "Oct 2025"
   - name: "KAIST Breakthroughs"
