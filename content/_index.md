@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: 'github.juiceleee.intro'
+  - block: 'github.juiceleee.intro2'
     id: about
     content:
       title: Seungjoo Lee
