@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: 'github.juiceleee.intro'
+  - block: 'github.juiceleee.intro2'
     id: about
     content:
       title: Seungjoo Lee
@@ -93,28 +93,28 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: 'github.juiceleee.news'
+  - block: 'github.juiceleee.news2'
     id: news
     content:
       title: News
       username: admin
-  - block: 'github.juiceleee.publication'
+  - block: 'github.juiceleee.publication2'
     id: publication
     content:
       title: Publications
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: 'github.juiceleee.honor'
+  - block: 'github.juiceleee.honor2'
     id: honor
     content:
       title: Honors
       username: admin
-  - block: 'github.juiceleee.project'
+  - block: 'github.juiceleee.project2'
     id: project
     content:
       title: Projects
       username: admin
-  - block: 'github.juiceleee.miscellaneous'
+  - block: 'github.juiceleee.miscellaneous2'
     id: miscellaneous
     content:
       title: Miscellaneous
