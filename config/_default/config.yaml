@@ -24,7 +24,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-    - path: github.com/juiceleee/seungjoo-blox
+    - path: github.com/juiceleee/seungjoo-wowchemy-blocks
 
 ############################
 ## ADVANCED
