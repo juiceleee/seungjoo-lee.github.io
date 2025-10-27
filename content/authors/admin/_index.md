@@ -187,9 +187,11 @@ demo:
     img: uploads/necktural.png
 
 preprint:
-  - name: Anonymized Title
-    venue: "ICLR 2026"
-    author: XiaoMeng Chen*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Hyungjun Yoon*, Yu Wu*, Taiting Lu, Freddy Yifei Liu, Sung-Ju Lee†, Dongyao Chen†, Cecilia Mascolo†, Lili Qiu <br> <i>* Equal contribution. † Equal senior role</i>
+  - name: "Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"
+    venue: "arXiv Preprint"
+    author: Hyungjun Yoon*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, Lili Qiu <br> <i>* Equal contribution</i>
+    pdf: https://arxiv.org/abs/2510.20853
+    img: uploads/pimt.png
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
