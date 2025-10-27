@@ -1,0 +1,39 @@
+#newstable{
+    border: none;
+    table-layout: auto;
+    width: auto;
+    height: auto;
+    overflow-x: auto;
+}
+
+#newstable td, #newstable th {
+    margin: 0;  /* Remove margin */
+    padding: .25rem;
+}
+
+#newstable td:first-child{
+    white-space: nowrap;
+    border: none;
+}
+
+#newstable td:nth-child(2){
+    border: none;
+    max-width:100%;
+    white-space:normal;
+    word-wrap: break-word;
+    overflow-x: auto;
+}
+
+#newstable th{
+    border: none;
+    overflow-x: auto;
+}
+
+#newstable h5{
+    margin: 0;
+    padding: 0;
+}
+
+.home-section {
+    padding: 30px 0 30px 0;
+  }

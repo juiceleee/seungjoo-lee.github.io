@@ -1,0 +1,65 @@
+/* Add your block style here */
+.btn {
+    background-color: #4765b6; /* Blue background */
+    font-family: Arial, Helvetica, sans-serif;
+    border: none; /* Remove borders */
+    color: white; /* White text */
+    padding: 6px 10px; /* Some padding */
+    font-size: small; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+    color: white;
+  }
+
+#publicationul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+// #publicationdiv {
+//   margin-right: 0;
+//   margin-bottom: 20px;
+//   display: flex;
+//   align-items: center;
+// }
+
+#publicationdiv {
+  margin-bottom: 20px;
+}
+
+#imgdiv {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+//   br {
+//     display: block; /* makes it have a width */
+//     content: ""; /* clears default height */
+//     margin-top: 5; /* change this to whatever height you want it */
+// }
+
+// ul li
+// {
+//     margin-bottom: 20px;
+// }
+
+// div + div {
+//     margin-top: 40px;
+// }
+
+// ul {
+//   list-style-type: none;
+//   margin: 0;
+//   padding: 0;
+// }
+
+.home-section {
+  padding: 30px 0 30px 0;
+}

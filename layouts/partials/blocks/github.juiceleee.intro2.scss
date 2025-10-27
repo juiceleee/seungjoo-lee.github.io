@@ -1,0 +1,37 @@
+/* Add your block style here */
+img {
+    margin: auto;
+}
+
+.linked-icon {
+    list-style: none; /* Remove bullets from the list */
+    padding: 0;
+    margin: 0;
+  }
+  
+  .linked-icon li {
+    display: inline-block; /* Align items horizontally */
+    margin-right: 15px; /* Add space between items */
+  }
+  
+  .linked-icon a {
+    text-decoration: none; /* Remove underline by default */
+    color: black; /* Default color */
+    transition: color 0.3s ease; /* Smooth color and text-decoration transition */
+  }
+  
+  .linked-icon a:hover {
+    color: royalblue; /* Change color on hover */
+  }
+  
+  .linked-icon i {
+    margin-right: 4px; /* Add space between icon and text */
+  }
+  
+  .article-style span {
+    font-weight: 900 !important; /* or 700, 800 depending on what your font supports */
+}
+
+.home-section {
+  padding: 30px 0 30px 0;
+}

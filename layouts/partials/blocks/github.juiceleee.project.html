@@ -1,0 +1,93 @@
+{{/* Wowchemy Blocks: About */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $block.content.username }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "square" }}
+
+<div class="container">
+  <div class="row">
+    
+    <h2 style="text-align:left;margin-top:0px;padding-top:0px;"><b>{{$block.content.title}}</b></h2>
+  </div>
+  <div class="row">
+    <ul id="projectul">
+        {{ range $person.project }}
+        {{ $name := .name }}
+        {{ $desc := .desc }}
+        {{ $author := .author | safeHTML }}
+        {{ $link := .pdf }}
+        {{ $website := .website}}
+        {{ $video := .video }}
+        {{ $aw := .award}}
+        {{ $img := .img}}
+        {{ $slide := .slide }}
+        {{ $page := .page}}
+        {{ $code := .code}}
+        {{ $scheme := (urls.Parse $link).Scheme }}
+        {{ $target := "" }}
+        {{ if not $scheme }}
+          {{ $link = .link | relLangURL }}
+        {{ else if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+        {{ end }}
+
+        <li id="projectli">
+          <div class="row" id="projectdiv">
+            <div class="col-auto-12 col-lg-4" id="imgdiv">
+              <img width="300" src="{{ $img }}" alt="{{$name}}">
+            </div>
+            <div class="col-12 col-lg-8">
+              <h5 style="text-align:left;"> <b> <a href="{{$page}}" class="titlehref" ><i class="fa-solid fa-link"></i>&nbsp;{{ $name }} </a> </b></h5>
+              <h6 style="font-weight:normal;text-align:left;"><i>{{ $desc }}</i></h6>
+              <h6 style="font-weight:normal;text-align:left;">{{ $author }}</h6>
+
+              {{ if $aw }}
+              <h6 style="text-align:left;"><i class="fa-solid fa-trophy"></i><b>&nbsp;{{ $aw }}</b></h6>
+              {{ end }}
+
+              
+              {{ if $link }}
+              <button class="btn" onclick="location.href='{{ $link | safeURL }}'"><i class="fa-solid fa-file-lines"></i> Report</button>
+              {{ end }}
+              
+              {{ if $website }}
+              <button class="btn" onclick="location.href='{{ $website | safeURL }}'"><i class="fa-solid fa-house"></i> Website</button>
+              {{ end }}
+
+              {{ if $slide }}
+              <button class="btn" onclick="location.href='{{ $slide | safeURL }}'"><i class="fa-solid fa-file-powerpoint"></i> Slides</button>
+              {{ end }}
+
+              {{ if $code }}
+              <button class="btn" onclick="location.href='{{ $code | safeURL }}'"><i class="fa-solid fa-code"></i> Code</button>
+              {{ end }}
+
+              {{ if $video }}
+              <button class="btn" onclick="location.href='{{ $video | safeURL }}'"><i class="fa-solid fa-film"></i> Video</button>
+              {{ end }}
+  
+            </div>
+          </div>                  
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+</div>

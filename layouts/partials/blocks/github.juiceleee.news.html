@@ -1,0 +1,48 @@
+{{/* Wowchemy Blocks: About */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $block.content.username }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "square" }}
+
+<div class="container">
+  <div class="row">
+      <h2 style="text-align:left;margin-top:0px;padding-top:0px;"><b>News</b></h2>
+  </div>
+  <div class="col-12">
+    <div class="table-responsive">
+      <table cellspacing="0" cellpadding="0" id="newstable">
+          <tr id="newstable">
+              <th></th>
+              <th></th>
+              <th></th>
+          </tr>
+          {{ range $person.news }}
+          {{ $exp := .exp | safeHTML}}
+          {{ $date := .date }}
+          <tr id="newstable">
+              <td id="newstable" style="text-align:left;"><h5 style="padding:0px;margin:0px;">&#x2022; {{ $date }}</h5></td>
+              <td id="newstable" style="text-align:left;"><h5 style="padding:0px;margin:0px;">{{ $exp }}</h5></td>
+          </tr>
+          {{ end }}
+      </table>
+    </div>
+  </div>
+</div>

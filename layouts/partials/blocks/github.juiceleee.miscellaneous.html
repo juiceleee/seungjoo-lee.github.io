@@ -1,0 +1,40 @@
+{{/* Wowchemy Blocks: About */}}
+{{/* Documentation: https://wowchemy.com/blocks/ */}}
+{{/* License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $block.content.username }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "square" }}
+
+<div class="container">
+    <div class="row">
+        <h2 style="text-align:left;margin-top:0px;padding-top:0px;"><b>Miscellaneous</b></h2>
+    </div>
+    <div class="row">
+        <div class="col-12" style="text-align:center;">
+            {{ range $person.miscellaneous }}
+            {{ $img := .img}}
+            {{ $name := .name }}
+            {{ $desc := .desc }}
+            <img width="600" src="{{ $img }}" alt="{{ $name }}" style="display:block; margin:auto;">
+            <h5 style="margin-top:10px;">{{ $desc }}</h5>
+            {{end}}
+        </div>
+    </div>
+</div>
