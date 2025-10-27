@@ -1,13 +1,10 @@
 name: Deploy Wowchemy website to GitHub Pages
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
   push:
     branches: ["main"]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
-# Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -22,7 +19,6 @@ defaults:
     shell: bash
 
 jobs:
-  # Build website
   build:
     if: github.repository_owner != 'wowchemy'
     runs-on: ubuntu-latest
@@ -30,29 +26,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5          # was v4
         with:
           go-version: '1.21'
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3    # was v2
         with:
           hugo-version: '0.119.0'
           extended: true
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # upload-pages-artifact v3 uses the new artifact backend (v4 of upload-artifact)
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v3   # was v2
         with:
           path: ./public
 
-  # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'wowchemy'
     environment:
@@ -61,6 +60,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      # newer deploy-pages also depends on the new artifact infra
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4          # was v2
