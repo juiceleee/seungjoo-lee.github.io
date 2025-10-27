@@ -98,7 +98,7 @@ sections:
     content:
       title: News
       username: admin
-  - block: 'github.juiceleee.publication'
+  - block: 'github.juiceleee.publications'
     id: publication
     content:
       title: Publications
