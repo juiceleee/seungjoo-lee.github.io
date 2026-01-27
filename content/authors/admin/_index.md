@@ -126,6 +126,8 @@ social:
 
 
 news:
+  - exp: 🎉 Paper accepted at ICLR 2026
+    date: Jan 2026 |
   - exp: 🏅 Recognized as a Top Reviewer at NeurIPS 2025 (top 8.02% of 24,429 reviewers)
     date: Oct 2025 |
   - exp: 🎓 Starting my PhD at Cargenie Mellon University
@@ -151,6 +153,11 @@ news:
 
 
 paper:
+  - name: "Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"
+    venue: "ICLR 2026"
+    author: Hyungjun Yoon*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, Lili Qiu <br> <i>* Equal contribution</i>
+    pdf: https://arxiv.org/abs/2510.20853
+    img: uploads/pimt.png
   - name: "(FL)<sup>2</sup>: Overcoming Few Labels in Federated Semi-Supervised Learning"
     venue: "NeurIPS 2024"
     author: <font color="#4765b6"><b>Seungjoo Lee</b></font>, Thanh-Long V. Le, Jaemin Shin, Sung-Ju Lee
@@ -186,12 +193,12 @@ demo:
     pdf: https://dl.acm.org/doi/10.1145/3307334.3328565
     img: uploads/necktural.png
 
-preprint:
-  - name: "Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"
-    venue: "arXiv Preprint"
-    author: Hyungjun Yoon*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, Lili Qiu <br> <i>* Equal contribution</i>
-    pdf: https://arxiv.org/abs/2510.20853
-    img: uploads/pimt.png
+# preprint:
+#   - name: "Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"
+#     venue: "arXiv Preprint"
+#     author: Hyungjun Yoon*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, Lili Qiu <br> <i>* Equal contribution</i>
+#     pdf: https://arxiv.org/abs/2510.20853
+#     img: uploads/pimt.png
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
