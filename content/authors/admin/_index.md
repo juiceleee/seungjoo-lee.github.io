@@ -195,12 +195,12 @@ demo:
     pdf: https://dl.acm.org/doi/10.1145/3307334.3328565
     img: uploads/necktural.png
 
-# preprint:
-#   - name: "Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"
-#     venue: "arXiv Preprint"
-#     author: Hyungjun Yoon*, <font color="#4765b6"><b>Seungjoo Lee*</b></font>, Yu Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Dongyao Chen, Cecilia Mascolo, Lili Qiu <br> <i>* Equal contribution</i>
-#     pdf: https://arxiv.org/abs/2510.20853
-#     img: uploads/pimt.png
+preprint:
+  - name: "GlintMarkers: Spatial Perception on XR Eyewear using Corneal Reflections"
+    venue: "arXiv Preprint"
+    author: <font color="#4765b6"><b>Seungjoo Lee</b></font>, Vimal Mollyn, Chris Harrison, Justin Chan, Mayank Goel</i>
+    pdf: https://arxiv.org/abs/2604.12949
+    img: uploads/glintmarkers.png
 
 project:
   - name: "Context-aware automatic video screen manipulation using trajectory tracking"
