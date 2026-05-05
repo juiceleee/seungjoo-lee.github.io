@@ -126,6 +126,8 @@ social:
 
 
 news:
+  - exp: ✈️ Participating ICLR 2026 @ Rio de Janeiro 🇧🇷
+    date: Apr 2026 |
   - exp: 🎉 Paper accepted at ICLR 2026
     date: Jan 2026 |
   - exp: 🏅 Recognized as a Top Reviewer at NeurIPS 2025 (top 8.02% of 24,429 reviewers)
